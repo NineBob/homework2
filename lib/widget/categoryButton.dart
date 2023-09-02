@@ -22,7 +22,7 @@ class CategoryButton extends StatelessWidget {
         ],
       ),
       height:150.0 ,
-      decoration: BoxDecoration(border: Border.all(color: Colors.black,style: BorderStyle.solid),borderRadius: BorderRadius.circular(30.0)),
+      decoration: BoxDecoration(border: Border.all(color: Colors.black,style: BorderStyle.solid),borderRadius: BorderRadius.circular(10.0)),
     );
   }
 }
